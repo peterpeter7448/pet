@@ -1,0 +1,314 @@
+ nav{
+    text-align: center;
+    word-spacing: 5px;
+    height: 75px;
+    width: 100%;
+    padding: 3px;
+    border: whitesmoke;
+    
+ }
+ .br h3{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    margin: 0px;
+    padding: 3px;
+    padding-left: 3%;
+    background-image: url('img_girl.jpg');
+
+ }
+br a{
+    text-align: center;
+ }
+ br h3{
+    text-align: center;
+ }
+ .nav-a h2{
+    text-align: end;
+ }
+ .pe{
+    color: whitesmoke;
+ }
+ .dr{
+    padding: 100px;
+    letter-spacing: 2px;
+    font-style: italic;
+ 
+ }
+ 
+ .con{
+    height: 600px;
+    display: flex;
+    text-align: center;
+    flex-direction:row-reverse;
+    counter-reset: none;
+    padding: 100px;
+    float: right;
+    word-spacing: 10px;
+    flood-color: aliceblue;
+    float: inline-end;
+ }
+ .te{
+   width: 150pxx;
+   height: 170px;
+   padding: 50x;
+   text-align: center;
+   background-color: orangered;
+   display: inline;
+
+ }
+ .color{
+   height: 450px;
+   background-image: url("home-peter..jpg");
+   
+   
+ }
+.urban{
+   background-image: url('img_girl.jpg');
+   background-color: aquamarine;
+}
+.hd{
+   display: flex;
+   padding-left: 50px;
+   display: flexbox;
+   padding-top: 10%;
+   font-size: 150%;
+   
+}
+.box{
+   display: inline-block;
+   padding-left: 100px;
+   padding-right: 70px;
+}
+.next{
+   display: inline-block;
+   background-color: blueviolet;
+   height: 400px;
+   background-color: white;
+   display: flex;
+   text-align: center;
+}
+.work img{
+   width: 40%;
+   height: 40%;
+   padding-left: 100px;
+   float: left;
+}
+.li{
+   background-color: blue;
+   text-align: center;
+   font-style: italic;
+   font-size: larger; 
+   margin: 0px;
+}
+.number h1{
+   color: orangered;
+   font-size: 50px;
+   display: inline-block;
+   text-align: center;
+   padding-left: 20px;
+   word-spacing: 50px;
+   align-items: center;
+   text-align: center;
+
+}
+.hr{
+   display: inline-block;
+   word-spacing: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 20px;
+   align-items: center;
+   padding-left: 100px;
+   margin: 0px;
+}
+.view img{
+   width: 420px;
+   height: 420px;
+   float: left;
+   vertical-align:middle;margin:10px 5px;
+   padding-right:30px;
+   grid-template-columns: repeat(3,1fr);
+   transform: 3.2s ease;
+   border: 30px;
+   box-shadow: 3;
+   display: flex;
+   align-items: first baseline;
+   
+   
+
+}
+.op{
+   margin: 80px;
+   text-align: center;
+   font-style: italic;
+   border: 30px;
+   border-top: 30px;
+   padding: 30px; 
+}
+.ap{
+   border: 20px;
+   padding: 20px;
+
+
+}
+.back{
+   font-style: italic;
+}
+.classwork{
+   background-color: blue;
+}
+.view{
+   background-color: whitesmoke;
+}
+.view img{
+   background-color: whitesmoke;
+   display: flex;
+  display: block;
+  padding: auto;
+}
+.view h1{
+   padding-left: 10%;
+   font-size: 300%;
+   
+}
+.work h1{
+   text-align: center;  
+}
+.com p{
+   padding-right: 50px;
+   padding-left: 50%;
+   font-size: 130%;
+}
+*{
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.mov{
+   text-align: center;
+
+}
+.mov h4{
+   padding: 30px;
+
+}
+.key{
+   font-style: italic;
+   font-size: 110%;
+   color: whitesmoke;
+}
+.mov{
+   padding: 80px;
+   padding-right: 10px;
+   padding-left: 10px;
+   background-color: orangered;
+   height: 220px;
+   padding-top: 30px;
+
+
+}
+.ver{
+   padding: 80px;
+}
+.container img{
+   width: 300px;
+   height: 300px;
+   display: flex;
+}
+.container{
+   background-color: whitesmoke;
+   display: flow-root;
+   float: right;
+   flex-direction:row-reverse;
+}
+.asus{
+   border: 2px;
+   background-color: whitesmoke;
+   align-items: end;
+   width: 30%;
+   height: 30%;
+   color:light black;
+   margin: 15px;
+   padding: 10px;
+   float: inline-end;
+   order: unset;
+   padding-top: unset;
+   padding-right: 50px;
+   padding-left: 50%;
+   font-size: 130%;
+  font-size: 80%;
+  text-align: center;
+
+}
+.lob img{
+   width: 10%;
+   height: 10%;
+   width: 300px;
+   height: 300px;
+   display: flex;
+   flex-direction:row-reverse;
+
+}
+.lob{
+   width: 20%;
+   height: 20%;
+   background-color: orangered;
+   color: black;
+   margin: 10px;
+   padding: 80px;
+   float: left;
+}
+.lob p{
+   width: 25%;
+   height: 40%;
+} 
+.bil{
+   padding-left: 50px;
+   padding-right: 0px;
+}
+.losof h3{
+   text-align: center;
+   margin: 0px;
+   display: inline-block;
+   text-align: center;
+   
+}
+.losof p{
+   text-align: center;
+   margin: 0px;
+   display: inline-block;
+   text-align: center;
+   word-spacing: 40%;
+
+}
+.losof{
+   text-align: center;
+   padding-block: 5%;
+   background-color:orangered;
+   color: whitesmoke;
+   word-spacing: 30%;
+   padding-left: 30px;
+   padding-right: 30px;
+   
+}   
+.apout{
+   height: 600px;
+   background-color:lightslategray;
+   display: flex;
+   
+        
+   
+}
+.nuuk p{
+   display: block;
+   width: 20%;
+}
+.nuuk h3{
+   text-align: left;
+}
+.service h3{
+   align-items: center;
+   display: flex;
+}
+   
