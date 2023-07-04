@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="fristweb.css">
+</head>
+<body>
+        <nav class="br">
+          <a href="#" style="float: left; background-color:orangered;width: 120px;height: 100px;"><h2>NUUK</h2></a>
+         <a href=""><h3>HOME</h3></a> 
+         <a href=""><h3>PROJECT</h3></a> 
+         <a href=""><h3>ABOUT</h3></a> 
+         <a href=""><h3>SERVICE</h3></a> 
+         <a href=""><h3>BLOCK</h3></a> 
+          <a href=""><h3>PAGES</h3></a> 
+          <a href="" style="float: right;background-color: orangered;height: 50%;height: 75px; "><h1>GET FREE QUOTE</h1></a>
+        </nav> 
+    </div>      
+       <div class="color">
+        <div class="pe">
+           <div class="dr">
+            <h1>YOU DREAM. WE CREATE.</h1>  
+            <p>We turn your ideas to reality, we don't stop until you're satisfied.</p>
+            <div class="box">
+              <button style="background-color: orangered;color: whitesmoke;padding: 5px;">GET FREE QUOTE</button>
+              <div class="con" style="text-align: end;">
+                <div class="te">
+                    <i class="fa-regular fa-phone"></i>
+                    <h2>PHONE NUMBER</h2>
+                    <h3>1-800-506-266</h3>
+                    <h3>1-100-777-800</h3>
+                </div>
+                <div class="te">
+                    <i class="fa-regular fa-square-envelope"></i>
+                    <h2>CONTACT</h2>
+                    <h3>contact@nuuk.com</h3>
+                    <h3>info@nuuk.com</h3>
+                </div>
+                   <div class="te">
+                    <i class="fa-regular fa-clock"></i>
+                    <h2>OPENING TIME</h2>
+                    <h3>Mon - Sat 8:00 - 17:30, Sunday - Closed</h3>
+                    <h3>FIND ON MAP</h3>
+                   </div>
+                 </div>   
+            </div>
+           </div>  
+          </div>     
+        </div>
+        </div>
+          <div class="hd">
+            <h1>OUR SPECIALIZATION </h1>
+          </div>
+          <div class="next">
+            <div class="box">
+                <i class="fa-regular fa-film"></i>
+                <h2>RENOVATION</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ea perferendis magnam vitae autem fugit nostrum tenetur quaerat nam magni.</p>
+                <p>LERAN MORE </p>
+            </div>
+            <div class="box">
+                <i class="fa-regular fa-film"></i>
+                <h2>ARCHITECTURE</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ea perferendis magnam vitae autem fugit nostrum tenetur quaerat nam magni.</p>
+                <p>LERAN MORE</p>
+            </div>
+            <div class="box">
+                <i class="fa-regular fa-film"></i>
+                <h2>CONSTRUCTION</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ea perferendis magnam vitae autem fugit nostrum tenetur quaerat nam magni.</p>
+                <p>LERAN MORE</p>
+            </div>
+            <div class="box">
+                <i class="fa-regular fa-film"></i>
+                <h2>FINANCIAL RESULTS</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis ea perferendis magnam vitae autem fugit nostrum tenetur quaerat nam magni.</p>
+                <p>LERAN MORE</p>
+            </div>
+          </div>
+          <div class="work">
+              <img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/serv-1.jpg"alt="">
+                 <div class="toll">
+                  <h1 style="padding-left: 30px;">WHO WE ARE</h1>
+                 </div>
+                 <div class="com">
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae voluptatibus sed sunt unde dolorum, doloribus deleniti perferendis sapiente. Hic nam molestias quasi, numquam suscipit ipsa rerum tenetur nobis corrupti nulla ab provident. Quaerat iusto qui delectus, similique cumque sed est. Unde quibusdam reprehenderit nostrum accusamus recusandae corrupti officia laborum, harum dolorum perspiciatis at aut quia facilis quidem, natus illum consequuntur? Dolore corrupti quo itaque voluptates similique? Adipisci, saepe facere nobis, beatae veritatis eum reprehenderit perspiciatis voluptatibus earum quibusdam eveniet voluptates repudiandae! Rerum aut, illum ipsa nesciunt quaerat facilis. Minima aperiam vitae illum laboriosam distinctio quod maiores alias, ullam quas adipisci!</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque earum voluptatum architecto nisi aut reprehenderit neque quasi ducimus libero officiis.
+                  <p style="text-align: center;">MEET THE TEAM</p>
+          </div>
+              
+              </div>
+              <br>
+                <div class="number" style="display: block;align-items: baseline;">
+                  <div class="hr">
+                  <h1>170</h1>
+                  <h3>Employer with over 10</h3>
+                  <h3>years of experience</h3>
+                  </div>
+                  <div class="hr">
+                  <h1>10</h1>
+                  <h3>Years experience in</h3>
+                  <h3>construction industries</h3>
+                  </div>
+                  <div class="hr">
+                  <h1>690</h1>
+                  <h3>Residential premises</h3>
+                  <h3>completed in 2019</h3>
+                  </div>
+                  <div class="hr">
+                  <h1>7.1</h1>
+                  <h3>Milion dollar value on</h3>
+                  <h3>investments</h3>
+                  </div> 
+               </div>
+              <br>
+          <div class="view" style="background-color: whitesmoke;">
+            <h1>OUR WORK</h1>
+            <div class="view">
+             <a href=""><img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/p-1.jpg" alt=""></a>
+            </div>
+            <div class="view">
+             <a href=""><img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/p-4.jpg" alt=""></a>
+            </div>
+            <div class="view">
+             <a href=""><img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/p-3.jpg" alt=""></a>
+            </div>
+            <div class="view">
+             <a href=""><img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/p-6.jpg" alt=""></a>
+            </div>
+            <div class="view">
+             <a href=""><img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/p-5.jpg" alt=""></a>
+            </div>
+            <div class="view">
+              <a href=""><img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/p-2.jpg" alt=""></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<h1 style="color: white;background-color: white;">hello peter</h1>
+        <div class="mov">
+          <br>
+          <div class="key">
+          <h1>LET'S MAKE SOMETHING GREAT TOGETHER</h1>
+          </div>
+          <div class="key">
+          <h3>Get in touch with us and send some basic info for a quick quote.</h3>
+          </div>
+          <div class="key">
+          <h4>GET FREE QUOTE</h4>
+          </div>
+        </div>
+        <div class="cm">
+          <div class="ver">
+            <h1>PROFESSIONALS</h1>
+          </div>
+          <div class="container">
+            <a href=""><img src="https://media.licdn.com/dms/image/D5603AQGuGSTINLQvQQ/profile-displayphoto-shrink_800_800/0/1675804376444?e=2147483647&v=beta&t=ICnfxmiIlOKbLyGKvrPUaRF_gvtkwN6BGnPz8m5ovf4" alt=""></a>
+            <h1>PHILIP BROWER</h1>
+            <h3>Managing Director</h3>
+          </div>
+          <div class="container">
+            <a href=""><img src="https://media.gettyimages.com/id/457687980/photo/actor-keanu-reeves-attends-summit-entertainments-premiere-of-john-wick-at-the-arclight.jpg?s=612x612&w=gi&k=20&c=Y43FhtEodSmZofU97AFdSHivieqdSDYWohBrJbfIxzA=" alt=""></a>
+            <h1>JOHN WICK</h1>
+            <h3>Managing Director</h3>
+          </div>
+          <div class="container">
+            <a href=""><img src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/20/1494939444-better-call-saul-jimmy-mcgill.jpg" alt=""></a>
+            <h1>JIMMY MCGILL</h1>
+            <h3>Managing Director</h3>
+          </div>
+          <div class="container">
+            <a href=""><img src="https://i.ytimg.com/vi/L9R2A3gNkpk/maxresdefault.jpg" alt=""></a>
+            <h1>SARA CONNOR</h1>
+            <h3>Managing Director</h3>
+          </div>
+        </div>
+        <div class="top">
+          <div class="tree">
+            <h3>TESTIMONIALS</h3>
+            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium asperiores ea quod. Distinctio animi perspiciatis illum aut rerum nemo cumque recusandae totam eius soluta ex illo, est, sint sunt enim et dolore consequatur nihil neque delectus iusto aliquid? Quia laboriosam fugit id ad cumque vitae quibusdam veritatis aliquid quaerat voluptates, voluptate accusamus libero tempora commodi earum, voluptatem culpa amet architecto facere delectus eveniet, aspernatur quod nesciunt? Explicabo distinctio sed autem earum illo aperiam soluta consectetur facere aliquid nulla obcaecati, delectus, incidunt neque nobis dolores maxime culpa! Sapiente quam, veritatis doloremque explicabo ipsam, ut pariatur rem ea dolores minima, deserunt at.</h3>
+          </div>
+          <div class="asus">
+            <h2>SARA WILLIAM</h2>
+            <h3>CEO at Webflow</h3>
+            <p>"Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet"</p>
+          </div>
+          <div class="asus">
+            <h2>JOHN JUNIOR</h2>
+            <h3>Menager at Complexx</h3>
+            <p>"Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Cras varius. Etiam sit amet orci eget eros faucibus tincidunt. Fusce a quam"</p>
+          </div>
+          <div class="asus">
+            <h2>RAVEN DURGAN</h2>
+            <h3>Architect at Group</h3>
+            <p>"Aliquam eu nunc. Cras dapibus. Vestibulum turpis sem, aliquet eget, lobortis pellentesque, rutrum eu, nisl </p>
+          </div>
+          <div class="asus">
+            <h2>SAMI TYPO</h2>
+            <h3>SEO at Balfin</h3>
+            <p>"Vestibulum fringilla pede sit amet augue. Morbi ac felis. Ut a nisl id ante tempus hendrerit </p>
+          </div>
+        </div>
+        <br>
+        <div class="bil">
+          <div class="ting">
+            <h1>LASTET NEWS</h1>
+          </div>
+          <div class="lob">
+            <img  src="https://nuuk-e3eaa.firebaseapp.com/assets/img/port-1.jpg" alt="">
+            <h1>BLOPOST</h1>
+            <p>sarvice and proviting potendal and coustmer with testination in one of tha best way to marker</p>
+          </div>
+          <div class="lob">
+            <img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/port-2.jpg" alt="">
+            <h1>BLOPOST 1</h1>
+            <p>sarvice and proviting potendal and coustmer with testination in one of tha best way to marker</p>
+          </div>
+          <div class="lob">
+            <img src="https://nuuk-e3eaa.firebaseapp.com/assets/img/port-3.jpg" alt="">
+            <h1>BLOGPOST 2</h1>
+            <p>sarvice and proviting potendal and coustmer with testination in one of tha best way to marker</p>
+          </div>
+        </div>
+        <h1 style="text-align: center;background-color: white; color: white;">hi peter</h1>
+        <div class="losof">
+          <p>TRUSTED BY TOP COMPANIES</p>
+          <h3>LOGO 1</h3>
+          <h3>LOGO 2</h3>
+          <h3>LOGO 3</h3>
+          <h3>LOGO 4</h3>
+        </div>
+        <div class="apout">
+          <div class="nuuk" style="text-align: center;">
+          <h3>ABOUT NUUK </h3>
+          <p>Based on collective work and shared knowledge, Nuuk aims to favor dialogue and debate, to transform individual knowledge into increased creative potential.</p>
+          </div>
+          <div class="service">
+            <h3>SERVICES</h3>
+            <h3>FINANCIAL RESULTS</h3>
+            <h3>CONTURESAN</h3>
+            <h3>ARTHTRUE</h3>
+            <h3>RENOVATION</h3>
+          </div>  
+            <div class="CONTACTS">
+             <div class="PHONENUMPER">
+              <P>PHONE NUMPER</P>
+              <H3>1-800-506-266 </H3>
+             </div>
+              <div class="OPEM">
+                <P>OPENING TIME</P>
+                <H3>Mon - Sat 8:00 - 17:30, Sunday - Close</H3>
+              </div>
+              <div class="NAR">
+                <P>CONTACT</P>
+                <H3>contact@nuuk.coM </H3>
+              </div>
+
+
+             </div>
+
+            </div>
+       </div>   
+          
+          
+    
+      
+    </body>            
+    
+</html>
